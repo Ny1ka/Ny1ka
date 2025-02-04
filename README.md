@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ny1ka
-- 👀 I’m interested in web dev/ui-ux/iOS dev
+- 👀 I’m interested in fullstack dev/web dev/ui-ux/iOS dev
 - 🌱 I’m currently learning Javascript
 - 🤝 I’m looking to collaborate on Pear.ai and other stuff
 - 📫 Contacts: IG: @ny1kaw
